@@ -1,1 +1,1 @@
-# Machine-Learning-for-Computational-Biology
+# Machine Learning for Computational Biology
